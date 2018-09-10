@@ -1,0 +1,17 @@
+{
+  "name": "node-import",
+  "version": "1.0.0",
+  "description": "node import等语法支持demo",
+  "main": "entry.js",
+  "scripts": {
+    "test": "node ./entry.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "babel-register": "^6.26.0"
+  }
+}
